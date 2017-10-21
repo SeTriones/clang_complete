@@ -1,0 +1,2 @@
+vim ./clang_complete.vmb -c 'so %' -c 'q'
+you should install clang first
